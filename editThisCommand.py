@@ -8,7 +8,7 @@ import zlib
 
 # Please comment the line below out by adding a '#' to the front of
 # the line.
-# raise RuntimeError, "You need to comment out this line with a #"
+raise RuntimeError, "You need to comment out this line with a #"
 
 import getpass
 user = getpass.getuser()
